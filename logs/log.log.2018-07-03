@@ -1,0 +1,26 @@
+2018-07-03 14:06:13  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# testLoin 用例skipped. Skip 信息: 
+java.lang.RuntimeException: java.lang.NegativeArraySizeException
+2018-07-03 20:50:53  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-07-03 20:50:57  [ pool-1-thread-1:3921 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-07-03 20:50:57  [ pool-1-thread-1:4126 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:50:58  [ pool-1-thread-1:4909 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:50:58  [ pool-1-thread-1:4910 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:50:59  [ pool-1-thread-1:5948 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:50:59  [ pool-1-thread-1:5950 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:51:00  [ pool-1-thread-1:6743 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:51:00  [ pool-1-thread-1:6745 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:51:01  [ pool-1-thread-1:7431 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:51:01  [ pool-1-thread-1:7432 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:51:01  [ pool-1-thread-1:8150 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:51:01  [ pool-1-thread-1:8152 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-07-03 20:51:02  [ pool-1-thread-1:8815 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-07-03 20:51:02  [ pool-1-thread-1:8820 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-07-03 20:51:08  [ pool-1-thread-1:15056 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //html/body/div[2]/div/div/div/ul[2]/li[1]}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//html/body/div[2]/div/div/div/ul[2]/li[1]"}
+2018-07-03 20:51:08  [ pool-1-thread-1:15062 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginUser
+2018-07-03 20:51:55  [ pool-1-thread-1:62118 ] - [ INFO ]  #监听器日志# testLoginUser 测试通过
+2018-07-03 20:51:55  [ pool-1-thread-1:62123 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginJcy
+2018-07-03 20:52:50  [ pool-1-thread-1:117127 ] - [ INFO ]  #监听器日志# testLoginJcy 测试通过

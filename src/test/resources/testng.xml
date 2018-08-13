@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cluz" parallel="classes" thread-count="1">
+<listeners>
+    <listener class-name="com.jc.cluz.listener.CaseListener" />
+    <listener class-name="com.jc.cluz.listener.RetryListener" />
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+</listeners>
+<usedefaultlisteners name="false" />
+
+<test name="Login">
+    <classes>
+        <!--<class name="com.jc.cluz.testcases.LoginSsoTest"/>-->
+        <!--<class name="com.jc.cluz.testcases.LoginCheckTest"/>-->
+        <!--<class name="com.jc.cluz.testcases.LoginFinanceTest"/>-->
+        <!--<class name="com.jc.cluz.testcases.LoginUserTest"/>-->
+        <!--<class name="com.jc.cluz.testcases.LoginTest"/>-->
+        <!--<class name="com.jc.cluz.testcases.LoinTest"/>-->
+        <class name="com.jc.cluz.testcases.LogingAppTest"/>
+    </classes>
+</test>
+</suite>

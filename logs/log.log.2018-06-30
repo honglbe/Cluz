@@ -1,0 +1,444 @@
+2018-06-30 10:49:22  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:49:22  [ pool-1-thread-1:4 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:49:26  [ pool-1-thread-1:4002 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:49:26  [ pool-1-thread-1:4002 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:49:27  [ pool-1-thread-1:4199 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:49:27  [ pool-1-thread-1:4199 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:49:28  [ pool-1-thread-1:5647 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(.,'用户密码错误：')]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 872c7226e0c8dbdd1fffb658887ce79b
+*** Element info: {Using=xpath, value=//div[contains(.,'用户密码错误：')]}
+2018-06-30 10:49:28  [ pool-1-thread-1:5663 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(.,'用户密码错误：')]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 872c7226e0c8dbdd1fffb658887ce79b
+*** Element info: {Using=xpath, value=//div[contains(.,'用户密码错误：')]}
+2018-06-30 10:51:17  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:51:17  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:51:20  [ pool-1-thread-1:3011 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:51:20  [ pool-1-thread-1:3012 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:51:20  [ pool-1-thread-1:3184 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:51:20  [ pool-1-thread-1:3185 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:51:22  [ pool-1-thread-1:4570 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(.,'用户密码错误：')]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 614a2356612a48b10430c6e59056d233
+*** Element info: {Using=xpath, value=//div[contains(.,'用户密码错误：')]}
+2018-06-30 10:51:22  [ pool-1-thread-1:4580 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(.,'用户密码错误：')]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 614a2356612a48b10430c6e59056d233
+*** Element info: {Using=xpath, value=//div[contains(.,'用户密码错误：')]}
+2018-06-30 10:52:24  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:52:24  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:52:27  [ pool-1-thread-1:3330 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:52:27  [ pool-1-thread-1:3331 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:52:27  [ pool-1-thread-1:3487 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:52:27  [ pool-1-thread-1:3487 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:52:33  [ pool-1-thread-1:9118 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: ant-message-notice-content}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"ant-message-notice-content"}
+2018-06-30 10:52:33  [ pool-1-thread-1:9124 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: ant-message-notice-content}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"ant-message-notice-content"}
+2018-06-30 10:55:09  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:55:09  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 10:55:12  [ pool-1-thread-1:3026 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:55:12  [ pool-1-thread-1:3026 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 10:55:13  [ pool-1-thread-1:3213 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:55:13  [ pool-1-thread-1:3213 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 10:55:17  [ pool-1-thread-1:7875 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+Element not found {By.className: ant-message-notice-content}
+Expected: match text '用户密码错误'
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"class name","selector":"ant-message-notice-content"}
+2018-06-30 10:55:17  [ pool-1-thread-1:7882 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+Element not found {By.className: ant-message-notice-content}
+Expected: match text '用户密码错误'
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"class name","selector":"ant-message-notice-content"}
+2018-06-30 11:14:43  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:14:43  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:14:46  [ pool-1-thread-1:3186 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:14:46  [ pool-1-thread-1:3187 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:14:47  [ pool-1-thread-1:3334 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:14:47  [ pool-1-thread-1:3334 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:14:47  [ pool-1-thread-1:4241 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:14:47  [ pool-1-thread-1:4247 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:20:11  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:20:11  [ pool-1-thread-1:4 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:20:15  [ pool-1-thread-1:3717 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:20:15  [ pool-1-thread-1:3717 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:20:15  [ pool-1-thread-1:3897 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:20:15  [ pool-1-thread-1:3897 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:20:16  [ pool-1-thread-1:4865 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:20:16  [ pool-1-thread-1:4876 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:26:01  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:26:01  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:26:04  [ pool-1-thread-1:3327 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:26:04  [ pool-1-thread-1:3328 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:26:04  [ pool-1-thread-1:3475 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:26:04  [ pool-1-thread-1:3475 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:26:05  [ pool-1-thread-1:4414 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:26:05  [ pool-1-thread-1:4421 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 250 ms.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-30 11:37:41  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:37:41  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:37:45  [ pool-1-thread-1:3834 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:37:45  [ pool-1-thread-1:3834 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:37:45  [ pool-1-thread-1:3997 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:45  [ pool-1-thread-1:3997 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:46  [ pool-1-thread-1:4656 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:46  [ pool-1-thread-1:4656 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:46  [ pool-1-thread-1:4657 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:46  [ pool-1-thread-1:4657 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:47  [ pool-1-thread-1:5632 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:47  [ pool-1-thread-1:5632 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:47  [ pool-1-thread-1:5633 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:47  [ pool-1-thread-1:5633 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:47  [ pool-1-thread-1:6397 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:47  [ pool-1-thread-1:6398 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:47  [ pool-1-thread-1:6399 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:47  [ pool-1-thread-1:6400 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:48  [ pool-1-thread-1:6975 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:48  [ pool-1-thread-1:6975 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:48  [ pool-1-thread-1:6976 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:48  [ pool-1-thread-1:6976 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:48  [ pool-1-thread-1:7497 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:48  [ pool-1-thread-1:7498 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:48  [ pool-1-thread-1:7498 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:48  [ pool-1-thread-1:7499 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:37:49  [ pool-1-thread-1:8048 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:37:49  [ pool-1-thread-1:8048 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:19  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:55:19  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:55:22  [ pool-1-thread-1:3219 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:55:22  [ pool-1-thread-1:3220 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:55:22  [ pool-1-thread-1:3381 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:22  [ pool-1-thread-1:3381 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:23  [ pool-1-thread-1:4003 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:23  [ pool-1-thread-1:4004 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:23  [ pool-1-thread-1:4004 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:23  [ pool-1-thread-1:4005 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:23  [ pool-1-thread-1:4801 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:23  [ pool-1-thread-1:4801 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:23  [ pool-1-thread-1:4802 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:23  [ pool-1-thread-1:4802 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:24  [ pool-1-thread-1:5317 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:24  [ pool-1-thread-1:5317 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:24  [ pool-1-thread-1:5319 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:24  [ pool-1-thread-1:5319 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:25  [ pool-1-thread-1:5981 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:25  [ pool-1-thread-1:5981 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:25  [ pool-1-thread-1:5982 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:25  [ pool-1-thread-1:5982 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:25  [ pool-1-thread-1:6503 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:25  [ pool-1-thread-1:6503 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:25  [ pool-1-thread-1:6504 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:25  [ pool-1-thread-1:6505 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:55:26  [ pool-1-thread-1:7019 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:26  [ pool-1-thread-1:7019 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:55:26  [ pool-1-thread-1:7020 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:55:26  [ pool-1-thread-1:7021 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:55:26  [ pool-1-thread-1:7021 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 11:55:26  [ pool-1-thread-1:7026 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 11:56:21  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:56:21  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:56:23  [ pool-1-thread-1:2624 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:56:23  [ pool-1-thread-1:2624 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:56:23  [ pool-1-thread-1:2768 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:23  [ pool-1-thread-1:2768 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:24  [ pool-1-thread-1:3401 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:24  [ pool-1-thread-1:3401 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:24  [ pool-1-thread-1:3402 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:24  [ pool-1-thread-1:3402 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:25  [ pool-1-thread-1:4205 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:25  [ pool-1-thread-1:4205 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:25  [ pool-1-thread-1:4206 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:25  [ pool-1-thread-1:4206 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:25  [ pool-1-thread-1:4751 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:25  [ pool-1-thread-1:4752 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:25  [ pool-1-thread-1:4755 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:25  [ pool-1-thread-1:4755 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:26  [ pool-1-thread-1:5402 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:26  [ pool-1-thread-1:5402 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:26  [ pool-1-thread-1:5403 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:26  [ pool-1-thread-1:5403 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:26  [ pool-1-thread-1:5914 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:26  [ pool-1-thread-1:5914 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:26  [ pool-1-thread-1:5915 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:26  [ pool-1-thread-1:5916 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:56:27  [ pool-1-thread-1:6420 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:27  [ pool-1-thread-1:6420 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:56:27  [ pool-1-thread-1:6421 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:56:27  [ pool-1-thread-1:6421 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:56:27  [ pool-1-thread-1:6421 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 11:56:27  [ pool-1-thread-1:6426 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 11:58:15  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:58:15  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 11:58:18  [ pool-1-thread-1:2635 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:58:18  [ pool-1-thread-1:2635 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 11:58:18  [ pool-1-thread-1:2784 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:18  [ pool-1-thread-1:2785 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:18  [ pool-1-thread-1:3393 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:18  [ pool-1-thread-1:3393 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:18  [ pool-1-thread-1:3394 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:18  [ pool-1-thread-1:3394 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:19  [ pool-1-thread-1:4143 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:19  [ pool-1-thread-1:4144 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:19  [ pool-1-thread-1:4144 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:19  [ pool-1-thread-1:4145 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:20  [ pool-1-thread-1:4671 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:20  [ pool-1-thread-1:4671 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:20  [ pool-1-thread-1:4673 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:20  [ pool-1-thread-1:4673 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:20  [ pool-1-thread-1:5335 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:20  [ pool-1-thread-1:5335 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:20  [ pool-1-thread-1:5336 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:20  [ pool-1-thread-1:5336 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:21  [ pool-1-thread-1:5844 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:21  [ pool-1-thread-1:5844 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:21  [ pool-1-thread-1:5845 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:21  [ pool-1-thread-1:5845 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 11:58:21  [ pool-1-thread-1:6379 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:21  [ pool-1-thread-1:6379 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 11:58:21  [ pool-1-thread-1:6388 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:58:21  [ pool-1-thread-1:6388 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 11:58:27  [ pool-1-thread-1:12000 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[2]/li[1]}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[2]/li[1]"}
+2018-06-30 11:58:27  [ pool-1-thread-1:12006 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[2]/li[1]}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[2]/li[1]"}
+2018-06-30 12:03:53  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:03:53  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:03:56  [ pool-1-thread-1:3203 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:03:56  [ pool-1-thread-1:3203 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:03:56  [ pool-1-thread-1:3385 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:56  [ pool-1-thread-1:3386 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:57  [ pool-1-thread-1:4018 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:57  [ pool-1-thread-1:4018 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:57  [ pool-1-thread-1:4019 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:57  [ pool-1-thread-1:4019 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:58  [ pool-1-thread-1:4882 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:58  [ pool-1-thread-1:4882 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:58  [ pool-1-thread-1:4883 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:58  [ pool-1-thread-1:4883 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:58  [ pool-1-thread-1:5465 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:58  [ pool-1-thread-1:5467 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:58  [ pool-1-thread-1:5471 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:58  [ pool-1-thread-1:5471 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:59  [ pool-1-thread-1:6124 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:59  [ pool-1-thread-1:6125 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:03:59  [ pool-1-thread-1:6125 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:03:59  [ pool-1-thread-1:6126 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:04:00  [ pool-1-thread-1:6651 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:04:00  [ pool-1-thread-1:6652 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:04:00  [ pool-1-thread-1:6653 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:04:00  [ pool-1-thread-1:6654 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:04:00  [ pool-1-thread-1:7201 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:04:00  [ pool-1-thread-1:7201 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:04:00  [ pool-1-thread-1:7208 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:04:00  [ pool-1-thread-1:7208 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:04:06  [ pool-1-thread-1:13026 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[1]/li[3]}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[1]/li[3]"}
+2018-06-30 12:04:06  [ pool-1-thread-1:13033 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[1]/li[3]}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[1]/li[3]"}
+2018-06-30 12:06:14  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:06:14  [ pool-1-thread-1:5 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:06:17  [ pool-1-thread-1:3455 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:06:17  [ pool-1-thread-1:3456 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:06:18  [ pool-1-thread-1:3625 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:18  [ pool-1-thread-1:3626 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:18  [ pool-1-thread-1:4253 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:18  [ pool-1-thread-1:4254 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:18  [ pool-1-thread-1:4254 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:18  [ pool-1-thread-1:4254 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:19  [ pool-1-thread-1:5080 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:19  [ pool-1-thread-1:5080 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:19  [ pool-1-thread-1:5081 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:19  [ pool-1-thread-1:5082 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:20  [ pool-1-thread-1:5617 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:20  [ pool-1-thread-1:5618 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:20  [ pool-1-thread-1:5620 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:20  [ pool-1-thread-1:5621 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:20  [ pool-1-thread-1:6266 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:20  [ pool-1-thread-1:6267 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:20  [ pool-1-thread-1:6268 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:20  [ pool-1-thread-1:6268 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:21  [ pool-1-thread-1:6766 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:21  [ pool-1-thread-1:6766 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:21  [ pool-1-thread-1:6767 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:21  [ pool-1-thread-1:6767 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:06:21  [ pool-1-thread-1:7336 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:21  [ pool-1-thread-1:7337 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:06:21  [ pool-1-thread-1:7343 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:06:21  [ pool-1-thread-1:7344 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:06:27  [ pool-1-thread-1:13078 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[1]/li[3]/text()}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[1]/li[3]/text()"}
+2018-06-30 12:06:27  [ pool-1-thread-1:13084 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.id: /html/body/div[2]/div/div/div/ul[1]/li[3]/text()}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"/html/body/div[2]/div/div/div/ul[1]/li[3]/text()"}
+2018-06-30 12:07:35  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:07:35  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:07:38  [ pool-1-thread-1:2719 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:07:38  [ pool-1-thread-1:2720 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:07:38  [ pool-1-thread-1:2880 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:38  [ pool-1-thread-1:2881 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:38  [ pool-1-thread-1:3487 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:38  [ pool-1-thread-1:3487 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:38  [ pool-1-thread-1:3488 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:38  [ pool-1-thread-1:3489 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:39  [ pool-1-thread-1:4292 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:39  [ pool-1-thread-1:4293 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:39  [ pool-1-thread-1:4293 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:39  [ pool-1-thread-1:4294 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:40  [ pool-1-thread-1:4858 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:40  [ pool-1-thread-1:4859 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:40  [ pool-1-thread-1:4866 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:40  [ pool-1-thread-1:4866 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:41  [ pool-1-thread-1:5566 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:41  [ pool-1-thread-1:5566 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:41  [ pool-1-thread-1:5567 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:41  [ pool-1-thread-1:5567 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:41  [ pool-1-thread-1:6102 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:41  [ pool-1-thread-1:6103 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:41  [ pool-1-thread-1:6103 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:41  [ pool-1-thread-1:6104 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:07:42  [ pool-1-thread-1:6601 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:42  [ pool-1-thread-1:6601 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:07:42  [ pool-1-thread-1:6606 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:07:42  [ pool-1-thread-1:6607 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:07:43  [ pool-1-thread-1:8036 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 12:07:43  [ pool-1-thread-1:8036 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 12:10:53  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:10:53  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-30 12:10:55  [ pool-1-thread-1:2702 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:10:55  [ pool-1-thread-1:2702 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-30 12:10:55  [ pool-1-thread-1:2856 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:55  [ pool-1-thread-1:2856 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:56  [ pool-1-thread-1:3486 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:56  [ pool-1-thread-1:3487 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:56  [ pool-1-thread-1:3488 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:56  [ pool-1-thread-1:3488 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:57  [ pool-1-thread-1:4255 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:57  [ pool-1-thread-1:4255 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:57  [ pool-1-thread-1:4256 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:57  [ pool-1-thread-1:4256 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:57  [ pool-1-thread-1:4794 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:57  [ pool-1-thread-1:4794 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:57  [ pool-1-thread-1:4795 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:57  [ pool-1-thread-1:4795 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:58  [ pool-1-thread-1:5410 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:58  [ pool-1-thread-1:5410 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:58  [ pool-1-thread-1:5411 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:58  [ pool-1-thread-1:5411 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:58  [ pool-1-thread-1:5896 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:58  [ pool-1-thread-1:5896 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:58  [ pool-1-thread-1:5897 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:58  [ pool-1-thread-1:5897 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-30 12:10:59  [ pool-1-thread-1:6409 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:59  [ pool-1-thread-1:6410 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-30 12:10:59  [ pool-1-thread-1:6414 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:10:59  [ pool-1-thread-1:6414 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:11:30  [ pool-1-thread-1:37791 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 12:11:30  [ pool-1-thread-1:37791 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 12:11:53  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:11:53  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 12:12:27  [ pool-1-thread-1:33813 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 12:12:27  [ pool-1-thread-1:33814 ] - [ INFO ]  #监听器日志# testLoginFinance 测试通过
+2018-06-30 14:43:20  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 14:43:20  [ pool-1-thread-1:5 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginFinance
+2018-06-30 14:43:20  [ pool-1-thread-1:6 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 14:43:20  [ pool-1-thread-1:8 ] - [ ERROR ]  #监听器日志# testLoginFinance 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 14:43:52  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginUser
+2018-06-30 14:43:52  [ pool-1-thread-1:6 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginUser
+2018-06-30 14:43:52  [ pool-1-thread-1:7 ] - [ ERROR ]  #监听器日志# testLoginUser 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 14:43:52  [ pool-1-thread-1:9 ] - [ ERROR ]  #监听器日志# testLoginUser 测试失败. 失败信息: 
+java.lang.NullPointerException
+2018-06-30 14:44:49  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginUser
+2018-06-30 14:44:49  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginUser
+2018-06-30 14:45:27  [ pool-1-thread-1:38167 ] - [ INFO ]  #监听器日志# testLoginUser 测试通过
+2018-06-30 14:45:27  [ pool-1-thread-1:38168 ] - [ INFO ]  #监听器日志# testLoginUser 测试通过
+2018-06-30 15:02:04  [ pool-1-thread-1:1 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginJcy
+2018-06-30 15:02:04  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginJcy
+2018-06-30 15:02:38  [ pool-1-thread-1:34163 ] - [ INFO ]  #监听器日志# testLoginJcy 测试通过
+2018-06-30 15:02:38  [ pool-1-thread-1:34163 ] - [ INFO ]  #监听器日志# testLoginJcy 测试通过

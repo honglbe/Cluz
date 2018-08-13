@@ -1,0 +1,592 @@
+2018-06-28 15:24:47  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:25:21  [ pool-1-thread-1:33983 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:25:21  [ pool-1-thread-1:33990 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+org.testng.TestNGException: 
+DataProvider should be static: public java.lang.Object[][] com.jc.cluz.testcases.LoginCheckTest$StaticProvider.loginProvider() throws jxl.read.biff.BiffException,java.io.IOException
+2018-06-28 15:32:13  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:32:47  [ pool-1-thread-1:33961 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:32:47  [ pool-1-thread-1:33968 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+org.testng.TestNGException: 
+DataProvider should be static: public java.lang.Object[][] com.jc.cluz.testcases.LoginCheckTest$StaticProvider.loginProvider() throws jxl.read.biff.BiffException,java.io.IOException
+2018-06-28 15:38:43  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:39:16  [ pool-1-thread-1:33283 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:39:16  [ pool-1-thread-1:33290 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+org.testng.TestNGException: 
+DataProvider should be static: public java.lang.Object[][] com.jc.cluz.testcases.LoginCheckTest$StaticProvider.loginProvider() throws jxl.read.biff.BiffException,java.io.IOException
+2018-06-28 15:41:08  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:41:08  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:41:41  [ pool-1-thread-1:33647 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:41:41  [ pool-1-thread-1:33647 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:41:41  [ pool-1-thread-1:33669 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+java.lang.RuntimeException: java.io.FileNotFoundException: /Users/honglb/Documents/testcode/cluz/src/test/resources/testdataloginpage.xls (No such file or directory)
+2018-06-28 15:41:41  [ pool-1-thread-1:33669 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+java.lang.RuntimeException: java.io.FileNotFoundException: /Users/honglb/Documents/testcode/cluz/src/test/resources/testdataloginpage.xls (No such file or directory)
+2018-06-28 15:43:12  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:43:12  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:43:46  [ pool-1-thread-1:33896 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:43:46  [ pool-1-thread-1:33897 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:43:46  [ pool-1-thread-1:33921 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+java.lang.RuntimeException: jxl.read.biff.BiffException: Unable to recognize OLE stream
+2018-06-28 15:43:46  [ pool-1-thread-1:33921 ] - [ INFO ]  #监听器日志# testLoginCheck 用例skipped. Skip 信息: 
+java.lang.RuntimeException: jxl.read.biff.BiffException: Unable to recognize OLE stream
+2018-06-28 15:46:37  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:46:37  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:47:11  [ pool-1-thread-1:34158 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:47:11  [ pool-1-thread-1:34158 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:47:11  [ pool-1-thread-1:34340 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 15:47:11  [ pool-1-thread-1:34340 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 15:47:42  [ pool-1-thread-1:64902 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 15:47:42  [ pool-1-thread-1:64904 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 15:48:45  [ pool-1-thread-1:1 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:48:45  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:49:34  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:49:34  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 15:49:38  [ pool-1-thread-1:3361 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:49:38  [ pool-1-thread-1:3362 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 15:49:38  [ pool-1-thread-1:3557 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 15:49:38  [ pool-1-thread-1:3558 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 15:50:08  [ pool-1-thread-1:34039 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 15:50:08  [ pool-1-thread-1:34039 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 16:52:08  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 16:52:08  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 16:52:14  [ pool-1-thread-1:5608 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 16:52:14  [ pool-1-thread-1:5610 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 16:52:14  [ pool-1-thread-1:5917 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 16:52:14  [ pool-1-thread-1:5918 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 16:52:45  [ pool-1-thread-1:36707 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 16:52:45  [ pool-1-thread-1:36708 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 16:55:25  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 16:55:25  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 16:55:28  [ pool-1-thread-1:3517 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 16:55:28  [ pool-1-thread-1:3517 ] - [ INFO ]  #监听器日志# testLoginSso 测试通过
+2018-06-28 16:55:28  [ pool-1-thread-1:3672 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 16:55:28  [ pool-1-thread-1:3672 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 16:55:59  [ pool-1-thread-1:34161 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 16:55:59  [ pool-1-thread-1:34162 ] - [ INFO ]  #监听器日志# testLoginCheck 测试通过
+2018-06-28 19:27:15  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:15  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:35  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:35  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:42  [ pool-1-thread-1:7619 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:42  [ pool-1-thread-1:7627 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:42  [ pool-1-thread-1:7628 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:42  [ pool-1-thread-1:7629 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:48  [ pool-1-thread-1:13247 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:48  [ pool-1-thread-1:13250 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:48  [ pool-1-thread-1:13251 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:48  [ pool-1-thread-1:13251 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:54  [ pool-1-thread-1:18797 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:54  [ pool-1-thread-1:18799 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:54  [ pool-1-thread-1:18800 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:54  [ pool-1-thread-1:18800 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:27:59  [ pool-1-thread-1:24337 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:27:59  [ pool-1-thread-1:24339 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:29:31  [ pool-1-thread-1:115744 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:29:31  [ pool-1-thread-1:115745 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:29:31  [ pool-1-thread-1:115824 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:23000
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:29:31  [ pool-1-thread-1:115828 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:23000
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:29:31  [ pool-1-thread-1:116001 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:29:31  [ pool-1-thread-1:116001 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:43:19  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:19  [ pool-1-thread-1:4 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:27  [ pool-1-thread-1:8248 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:43:27  [ pool-1-thread-1:8256 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:43:27  [ pool-1-thread-1:8258 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:27  [ pool-1-thread-1:8258 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:33  [ pool-1-thread-1:13968 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:43:33  [ pool-1-thread-1:13970 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:43:33  [ pool-1-thread-1:13971 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:33  [ pool-1-thread-1:13972 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:33  [ pool-1-thread-1:13978 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:43:33  [ pool-1-thread-1:13980 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:43:33  [ pool-1-thread-1:13981 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:33  [ pool-1-thread-1:13982 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:43:33  [ pool-1-thread-1:13987 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:43:33  [ pool-1-thread-1:13991 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:47:27  [ pool-1-thread-1:248515 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:47:27  [ pool-1-thread-1:248516 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:47:27  [ pool-1-thread-1:248524 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:47:27  [ pool-1-thread-1:248528 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: ab368212f8d672648c9447a113372e43
+2018-06-28 19:47:27  [ pool-1-thread-1:248650 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:47:27  [ pool-1-thread-1:248650 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:47:27  [ pool-1-thread-1:248658 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:33703
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:47:27  [ pool-1-thread-1:248661 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:33703
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:47:27  [ pool-1-thread-1:248778 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:47:27  [ pool-1-thread-1:248779 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:48:34  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:34  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:42  [ pool-1-thread-1:8141 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:48:42  [ pool-1-thread-1:8148 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:48:42  [ pool-1-thread-1:8149 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:42  [ pool-1-thread-1:8149 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:47  [ pool-1-thread-1:13781 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:48:47  [ pool-1-thread-1:13784 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:48:47  [ pool-1-thread-1:13785 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:47  [ pool-1-thread-1:13785 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:47  [ pool-1-thread-1:13792 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:48:47  [ pool-1-thread-1:13795 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:48:47  [ pool-1-thread-1:13796 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:47  [ pool-1-thread-1:13797 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:48:47  [ pool-1-thread-1:13802 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:48:47  [ pool-1-thread-1:13804 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:54:06  [ pool-1-thread-1:332304 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332305 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332314 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:54:06  [ pool-1-thread-1:332316 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 858c89936dec69cf7c255490cf9dd506
+2018-06-28 19:54:06  [ pool-1-thread-1:332438 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332438 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332446 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:06  [ pool-1-thread-1:332447 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:06  [ pool-1-thread-1:332535 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332535 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332537 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:06  [ pool-1-thread-1:332539 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:06  [ pool-1-thread-1:332591 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332591 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:54:06  [ pool-1-thread-1:332593 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:06  [ pool-1-thread-1:332594 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:15302
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:54:48  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:54:48  [ pool-1-thread-1:2 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:54:56  [ pool-1-thread-1:7931 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:54:56  [ pool-1-thread-1:7938 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:54:56  [ pool-1-thread-1:7939 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:54:56  [ pool-1-thread-1:7940 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:55:02  [ pool-1-thread-1:13546 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:55:02  [ pool-1-thread-1:13549 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:55:02  [ pool-1-thread-1:13550 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:55:02  [ pool-1-thread-1:13550 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:55:08  [ pool-1-thread-1:19145 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:55:08  [ pool-1-thread-1:19147 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:55:08  [ pool-1-thread-1:19148 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:55:08  [ pool-1-thread-1:19148 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:55:08  [ pool-1-thread-1:19153 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 1bb405a68a25c270aeeef691c3c21436
+2018-06-28 19:55:08  [ pool-1-thread-1:19155 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 1bb405a68a25c270aeeef691c3c21436
+2018-06-28 19:55:52  [ pool-1-thread-1:63699 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:55:52  [ pool-1-thread-1:63699 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:55:52  [ pool-1-thread-1:63704 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 1bb405a68a25c270aeeef691c3c21436
+2018-06-28 19:55:52  [ pool-1-thread-1:63706 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 1bb405a68a25c270aeeef691c3c21436
+2018-06-28 19:55:52  [ pool-1-thread-1:63809 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:55:52  [ pool-1-thread-1:63810 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:55:52  [ pool-1-thread-1:63818 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:18005
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:55:52  [ pool-1-thread-1:63820 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:18005
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080
+2018-06-28 19:55:52  [ pool-1-thread-1:63944 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:55:52  [ pool-1-thread-1:63945 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:56:03  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:03  [ pool-1-thread-1:3 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:11  [ pool-1-thread-1:7480 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchWindowException: no such window: window was already closed
+2018-06-28 19:56:11  [ pool-1-thread-1:7488 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchWindowException: no such window: window was already closed
+2018-06-28 19:56:11  [ pool-1-thread-1:7490 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:11  [ pool-1-thread-1:7491 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:18  [ pool-1-thread-1:14849 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:56:18  [ pool-1-thread-1:14853 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="root"]/div/div[2]/div[2]/div/div[2]/div"}
+2018-06-28 19:56:18  [ pool-1-thread-1:14854 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:18  [ pool-1-thread-1:14854 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:24  [ pool-1-thread-1:20508 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchWindowException: no such window: target window already closed
+2018-06-28 19:56:24  [ pool-1-thread-1:20511 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: NoSuchWindowException: no such window: target window already closed
+2018-06-28 19:56:24  [ pool-1-thread-1:20512 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:24  [ pool-1-thread-1:20512 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginSso
+2018-06-28 19:56:31  [ pool-1-thread-1:27517 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:56:31  [ pool-1-thread-1:27520 ] - [ ERROR ]  #监听器日志# testLoginSso 测试失败. 失败信息: 
+java.lang.RuntimeException: Element not found {By.xpath: //*[@id="root"]/div/div[2]/div[2]/div/div[2]/div}
+Expected: visible
+Timeout: 5 s.
+Caused by: WebDriverException: chrome not reachable
+2018-06-28 19:58:08  [ pool-1-thread-1:124895 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:58:08  [ pool-1-thread-1:124896 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:58:08  [ pool-1-thread-1:124901 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 9ba700f2c9c8c858ab61dbe371ec755e
+2018-06-28 19:58:08  [ pool-1-thread-1:124903 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/ph/mf399jfn2db...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+selenide.baseUrl: http://localhost:8080
+Session ID: 9ba700f2c9c8c858ab61dbe371ec755e
+2018-06-28 19:58:08  [ pool-1-thread-1:125026 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:58:08  [ pool-1-thread-1:125026 ] - [ INFO ]  #监听器日志# 开始执行用例: testLoginCheck
+2018-06-28 19:58:08  [ pool-1-thread-1:125033 ] - [ ERROR ]  #监听器日志# testLoginCheck 测试失败. 失败信息: 
+org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:29794
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'localhost', ip: 'fe80:0:0:0:10a3:6521:35e5:8e00%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+selenide.url: http://test.admin.sso.jcease.com/login
+selenide.baseUrl: http://localhost:8080

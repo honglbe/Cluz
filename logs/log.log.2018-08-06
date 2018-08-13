@@ -1,0 +1,3 @@
+2018-08-06 20:02:00  [ pool-1-thread-1:0 ] - [ INFO ]  #监听器日志# 开始执行用例: testApp
+2018-08-06 20:02:05  [ pool-1-thread-1:5071 ] - [ ERROR ]  #监听器日志# testApp 测试失败. 失败信息: 
+java.lang.NullPointerException
